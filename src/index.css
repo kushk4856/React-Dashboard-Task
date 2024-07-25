@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    .box-shadow-csm {
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+    }
+
+    .stats-box-shadow {
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    }
+
+
+    .content-pack::-webkit-scrollbar {
+        background-color: rgb(194, 192, 192);
+        border: 2px solid var(--darkblue);
+        border-radius: 10px;
+        width: 5px;
+
+
+    }
+
+    .content-pack::-webkit-scrollbar-thumb {
+        background: #ffa059;
+        border-radius: 10px;
+    }
+
+}
