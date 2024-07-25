@@ -1,8 +1,6 @@
-# React + Vite
+<h1>A React Tailwind Dashboard UI Task </h1>
+<h2><a href='https://react-dashbard-task.netlify.app/'>Live Link :</a></h2>
+<img src="./src/assets/images/screencapture-main-wonderful-zabaione-e944da-netlify-app-dashboard-2024-07-25-07_22_45.png" alt="Design image" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr/>
+<h2><b>Stack used:</b> React, Tailwind, React-Icon, React-router-dom </h2>
