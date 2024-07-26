@@ -5,6 +5,7 @@ import Staffs from "./Pages/Staffs";
 import PageNotFound from "./Pages/PageNotFound";
 import DoctorsPage from "./Pages/DoctorsPage";
 import ServicesPage from "./Pages/ServicesPage";
+import OverLay from "./Components/OverLay";
 
 export default function App() {
   return (
